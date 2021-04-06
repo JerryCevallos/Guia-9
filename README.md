@@ -64,7 +64,7 @@ Amplificadores Operacionales
 
     Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
     
-    - Pudimos obtener resultados donde em amplificador operacional LM741 nos mostraba una señal en el osciloscopio con un voltaje menor mientras que cuando mediamos en la salida       del circuito la misma siempre era mayor aumentaba y esa se conocia como razon de ganancia 
+    - Pudimos obtener resultados donde em amplificador operacional LM741 nos mostraba una señal en el osciloscopio con un voltaje menor mientras que cuando mediamos          en la salida del circuito la misma era mayor aumentaba y esa se conocia como razon de ganancia pero asi miso como observamos en el circuito 2la señal disminuye 
 
 8. PREGUNTAS
 
