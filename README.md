@@ -86,7 +86,7 @@ Preguntas
 
     La suma inversor y no inversor
     
-    ![Pregunta 3](https://user-images.githubusercontent.com/75337022/113763045-d9728800-96de-11eb-9cb0-5a0923deb128.png)
+![Pregunta 3](https://user-images.githubusercontent.com/75337022/113763045-d9728800-96de-11eb-9cb0-5a0923deb128.png)
 
 9. TABULACION DE DATOS 
 
