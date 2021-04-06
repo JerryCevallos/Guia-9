@@ -36,6 +36,12 @@ Amplificadores Operacionales
 
 6. PROCEDIMIENTO
 
+     1.- Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre simultáneamente las señales de entrada y salida en un osciloscopio. Capture las formas de           onda.
+
+     2.- Determine y analice la relación entre las señales de entrada y salida en cada uno de los circuitos indicados en la figura 1.
+
+     3.- En todos los casos emplee un amplificados LM741.
+
 ![Circuitos_page-0001](https://user-images.githubusercontent.com/75337022/113759151-5e0ed780-96da-11eb-9d95-6210ad8bea73.jpg)
 
 ![Circuitos_page-0002](https://user-images.githubusercontent.com/75337022/113759170-6404b880-96da-11eb-9890-2093cf8c9573.jpg)
@@ -56,19 +62,35 @@ Amplificadores Operacionales
 
 7. ANALISIS DE RESULTADOS
 
+    Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
+    
+    - Pudimos obtener resultados donde em amplificador operacional LM741 nos mostraba una señal en el osciloscopio con un voltaje menor mientras que cuando mediamos en la salida       del circuito la misma siempre era mayor aumentaba y esa se conocia como razon de ganancia 
+
+8. PREGUNTAS
+
+Preguntas
+
+    1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
 
 
-8. TABULACION DE DATOS 
+    2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+
+
+    3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
+
+
+
+9. TABULACION DE DATOS 
 
 ![Tabulacion de datos](https://user-images.githubusercontent.com/75337022/113758862-04a6a880-96da-11eb-8ec5-f97c00dc1b84.png)
 
-9. CONCLUSIONES
+10. CONCLUSIONES
 
 
 
-10. BIBLIOGRAFIA
+11. BIBLIOGRAFIA
 
 
 
-11. ANEXOS
+12. ANEXOS
 
