@@ -71,14 +71,22 @@ Amplificadores Operacionales
 Preguntas
 
     1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
-
+    
+    - Revisar que canales estan encendidos y estan proporcionando señal 
+    - Verificar si el circuito se encuentra bien conectado antes de trabajar
+    - Trabajar en software Proteus el mas indicado 
 
     2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+    
+    - El A.O ideal tiene una ganancia infinita, una impedancia de entrada infinita, un ancho de banda también infinito, una impedancia de salida nula, un tiempo de respuesta           nulo y ningún ruido. Como la impedancia de entrada es infinita también se dice que las corrientes de entrada son cero.
 
+    - Parámetro Valor ideal Valor real Zi ∞ 1 MΩ Zo 0 100 Ω Bw ∞ 1 MHz Av ∞ 100.000 Ac 0
 
     3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
-
+    La suma inversor y no inversor
+    
+    ![Pregunta 3](https://user-images.githubusercontent.com/75337022/113763045-d9728800-96de-11eb-9cb0-5a0923deb128.png)
 
 9. TABULACION DE DATOS 
 
