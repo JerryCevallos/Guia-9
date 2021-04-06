@@ -86,11 +86,39 @@ Preguntas
 
 10. CONCLUSIONES
 
+  - El amplificador operacional es un instrumento utilizado en circuitos de gran complejidad 
+
+  - Pudimos notar que no solo es el encargado de aumentar la señal de salida sino tambien la puede disminuir 
+
+  - El osciloscopio usa los canales A y B para mostrar las señales de entrada y salida ayudandose de la perilla TIME 
+
 
 
 11. BIBLIOGRAFIA
 
+  - Tema 2, Amplificadores Operacionales, recuperado de: https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Repaso%20resumen%20Amplificadores%20Operacionales.pdf
 
+  - Amplificadores Operacioes y su uso en la Electronica, recogido de: http://panamahitek.com/amplificadores-operacionales-y-su-uso-en-la-electronica/
+
+  - Amplificadores Operacionales, Introduccion y conceptos, tomado de: http://www.ifent.org/temas/amplificadores_operacionales.asp 
 
 12. ANEXOS
+
+![Circuitos_page-0001](https://user-images.githubusercontent.com/75337022/113759151-5e0ed780-96da-11eb-9d95-6210ad8bea73.jpg)
+
+![Circuitos_page-0002](https://user-images.githubusercontent.com/75337022/113759170-6404b880-96da-11eb-9890-2093cf8c9573.jpg)
+
+![Circuitos_page-0003](https://user-images.githubusercontent.com/75337022/113759187-69620300-96da-11eb-89e0-cded8c6ce64b.jpg)
+
+![Circuitos_page-0004](https://user-images.githubusercontent.com/75337022/113759205-6f57e400-96da-11eb-9e1e-57eaabe7231b.jpg)
+
+![Circuitos_page-0005](https://user-images.githubusercontent.com/75337022/113759226-767ef200-96da-11eb-9934-7d9abdcf3716.jpg)
+
+![Circuitos_page-0006](https://user-images.githubusercontent.com/75337022/113759260-7da60000-96da-11eb-9ebd-84690aa6973a.jpg)
+
+![Circuitos_page-0007](https://user-images.githubusercontent.com/75337022/113759281-839be100-96da-11eb-946f-6f7ad8a6250a.jpg)
+
+![Circuitos_page-0008](https://user-images.githubusercontent.com/75337022/113759298-8991c200-96da-11eb-816c-38807961a5c9.jpg)
+
+![Circuitos_page-0009](https://user-images.githubusercontent.com/75337022/113759324-8f87a300-96da-11eb-907a-d0aa677870c2.jpg)
 
